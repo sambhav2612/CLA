@@ -1,0 +1,13 @@
+.mandatory {
+    color: red;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+}
